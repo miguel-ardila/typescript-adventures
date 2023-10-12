@@ -1,36 +1,32 @@
-# Basic Programming Course
+# TypeScript Adventures
 
-Welcome to the Basic Programming Course. This repository contains the necessary resources and materials for you to learn the fundamental concepts of programming in a clear and effective manner.
+Welcome to my TypeScript Adventures repository. This repository contains the resources and materials I'm using to learn TypeScript and enhance my programming skills.
 
-## Covered Topics
+## Topics I'm Exploring
 
-In this course, we will explore the following topics:
+In this personal learning journey, I'm exploring the following topics:
 
-1. **What is a Programming Language?**: Introduction to programming and the languages used.
+1. **What is TypeScript?**: Introduction to TypeScript and its role in modern web development.
 
-2. **Logic for Problem Solving**: We will learn how to approach and solve programming problems using logic.
+2. **TypeScript Basics**: Learning the fundamentals of TypeScript, including types, variables, and functions.
 
-3. **Running My First Program**: I will guide you through creating and running your first program.
+3. **TypeScript and JavaScript**: Understanding the relationship between TypeScript and JavaScript.
 
-4. **Hello World**: The famous "Hello World" in various programming languages.
+4. **Node.js with TypeScript**: Exploring TypeScript development in the Node.js environment.
 
-5. **Setting up Node.js**: We will learn how to install and configure Node.js, a JavaScript runtime environment.
+5. **TypeScript Projects**: Creating and working on TypeScript projects.
 
-6. **Sequential Programming**: Exploring sequential programming.
+6. **TypeScript Tools**: Exploring tools like `ts-node`, `tslint`, and more.
 
-7. **Common Code Writing Errors**: Identifying and resolving common code writing errors.
-
-8. **Printing Code Lines**: How to display information on the screen.
-
-9. **Data Structures and More**: Introduction to data structures and other advanced concepts.
+7. **Advanced TypeScript Concepts**: Diving into more advanced TypeScript concepts and features.
 
 ## Getting Started
 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone git@github.com:miguel-ardila/Course-Programming.git
-   ```
+   git clone git@github.com:miguel-ardila/typescript-adventures.git
+
 
    
 
