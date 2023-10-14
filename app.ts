@@ -1,1 +1,4 @@
-console.log("Hello world!");
+
+let firstName: string = "Miguel";
+
+
